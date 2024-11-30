@@ -1,0 +1,8 @@
+1. Create a product detail page as per your design idea. 
+    Product must have 5 images with 1 feature image, Product Name, 
+    Price with Strike price and discount %, multiple variants as per API provided, 
+    No of stock, Add to Cart, Product description, specification and Review.
+
+2. The Detail page must also contain a message seller option, 
+    which on click creates a message text field. On clicking send message, 
+    push notification should be triggered with "Thank you for Contacting Us" message.
